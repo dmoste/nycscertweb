@@ -2,6 +2,7 @@
 ***
 Readme file for David Moste's Computer Science certification repository.  
 
+### Summer Coursework
 [Programming](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/programming)  
 [Data Structures](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/ds)  
 [Methods](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/methods)  
