@@ -10,7 +10,7 @@ David Moste's Computer Science Education Certification Repository.
 
 ### Data Structures
 [Data Structures Repository](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/ds)  
-- [Animated Binary Search](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/ds/sorting/xtra/AnimatedSearch.java)  
+- [Animated Binary Search Code](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/ds/sorting/xtra/AnimatedSearch.java)  
 - [Linked Lists Code](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/ds/linkedlists/LinkedList.java)
 
 ### Methods
