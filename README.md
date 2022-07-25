@@ -3,15 +3,16 @@
 Readme file for David Moste's Computer Science certification repository.  
 
 ## Summer Coursework
-[Programming](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/programming)  
+### Programming
+[Programming Repository](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/programming)  
 - [Animated Game of Life Code](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/programming/3/xtra/AnimatedCgol.java)  
 
-
-[Data Structures](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/ds)  
+### Data Structures
+[Data Structures Repository](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/ds)  
 - [Animated Binary Search](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/ds/sorting/xtra/AnimatedSearch.java)  
 
-
-[Methods](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/methods)  
+### Methods
+[Methods Repository](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/methods)  
 - [Unplugged CS Activity](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/methods/04_unplugged.md)  
 
 
