@@ -1,6 +1,6 @@
 # nycscertweb
 ***
-Readme file for David Moste's Computer Science certification repository.  
+David Moste's Computer Science Education Certification Repository.  
 
 ## Summer Coursework
 ### Programming
