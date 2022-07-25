@@ -3,6 +3,11 @@
 Readme file for David Moste's Computer Science certification repository.  
 
 ## Summer Coursework
+| Course| Rempository| Cool Stuff|
+| ------------- |:-------------:| -----:|
+|Programming| right-aligned | $1600 |
+|Data Structures| centered      |   $12 |
+|Methods| are neat      |    $1 |
 ### Programming
 [Programming Repository](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/programming)  
 - [Animated Game of Life Code](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/blob/master/programming/3/xtra/AnimatedCgol.java)  
