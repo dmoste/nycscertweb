@@ -3,9 +3,9 @@
 Readme file for David Moste's Computer Science certification repository.  
 
 ## Summer Coursework
-| Course| Rempository| Cool Stuff|
+| Course| Rmpository| Cool Stuff|
 | ------------- |:-------------:| -----:|
-|Programming| right-aligned | $1600 |
+|Programming|[Programming Repository](https://github.com/hunter-teacher-cert/cohort-3-summer-work-dmoste/tree/master/programming) | $1600 |
 |Data Structures| centered      |   $12 |
 |Methods| are neat      |    $1 |
 ### Programming
